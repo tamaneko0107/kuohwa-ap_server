@@ -1,0 +1,11 @@
+
+FLASK_PORT = 5000
+
+# ORCL_HOST = "140.96.83.61"
+ORCL_HOST = "localhost"
+# ORCL_PORT = "30007"
+ORCL_PORT = "49161"
+# ORCL_SERVICE_NAME = "EE.oracle.docker"
+ORCL_SERVICE_NAME = "xe"
+ORCL_USER = "system"
+ORCL_PASSWD = "oracle"
